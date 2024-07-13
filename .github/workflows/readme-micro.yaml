@@ -19,3 +19,4 @@ jobs:
         
         with:
           readme-micro: "'**/*.{yaml,yml,json}' --key=${{ secrets.README_MICRO_SECRET }}"
+
